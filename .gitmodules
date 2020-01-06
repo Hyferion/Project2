@@ -1,0 +1,12 @@
+[submodule "SpotifyRecLabelingAndroid"]
+	path = SpotifyRecLabelingAndroid
+	url = https://github.com/Hyferion/SpotifyRecLabelingAndroid.git
+[submodule "reordr.li_frontend"]
+	path = reordr.li_frontend
+	url = https://github.com/Hyferion/reordr.li_frontend
+[submodule "reordr.li_backend"]
+	path = reordr.li_backend
+	url = https://github.com/Hyferion/reordr.li_backend
+[submodule "SpotifyRec"]
+	path = SpotifyRec
+	url = https://github.com/Hyferion/SpotifyRec
